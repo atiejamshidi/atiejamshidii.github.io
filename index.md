@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+### رزومه
 
-You can use the [editor on GitHub](https://github.com/atiejamshidi/atiejamshidii.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
++ تاریخ
+  - 15/5/1399
 
-### Markdown
+### مشخصات فردی
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
++ نام و نام خانوادگی : عطیه جمشیدی
++ استان محل سکونت : تهران 
++ شهر محل سکونت : تهران
++ تاریخ تولد : 27/3/1379
++ جنسیت : خانم
++ وضعیت تاهل : مجرد
 
-# Header 1
-## Header 2
-### Header 3
+### تجارب کاری
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
++ کارمند شهرداری بخش اداره بانوان
++ طراح سایت شرکت خصوصی پخص مقوای پشت طوسی
++ مسئول فروش کتاب در بانک کتاب
+  
+### تحصیلات
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
++ دیپلم ریاضی فیزیک
++ دانشجوی کارشناسی مهندسی کامپیوتر دانشگا پیام نور کرج
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### درباره من
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atiejamshidi/atiejamshidii.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
++ مسلط به فتوشاپ دارای مدرک از مجتمع فنی تهران
++ مسلط به طراحی سایت با ورد پرس دارای مدرک از مجتمع فنی تهران
+  
+### لینک پروفایل Quera
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
++ https://quera.ir/qcv/
++ https://quera.ir/profile/atie0
