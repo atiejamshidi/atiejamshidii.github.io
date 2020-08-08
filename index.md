@@ -1,4 +1,4 @@
-### <img src="https://avatars0.githubusercontent.com/u/69367428?s=400&u=cb77411fb2c113145329528c4f204bfce7d8314f&v=4
+### <img src="https://avatars0.githubusercontent.com/u/69367428?s=400&u=cb77411fb2c113145329528c4f204bfce7d8314f&v=4">
 
 ---
 
