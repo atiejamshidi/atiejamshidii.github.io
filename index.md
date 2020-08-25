@@ -13,7 +13,6 @@
 مسلط به طراحی سایت با ورد پرس و سئو 
 مسلط به office">
 
-    <meta name="robots" content="noindex, nofollow">
 
 <link href="/css/Fonts.css" rel="stylesheet">
 <link rel="stylesheet" href="/lib/fontawesome5.6.3/css/all.min.css">
@@ -82,7 +81,7 @@
             window.document.body.classList.add('mobile-version');
         }
     })
-</script>    <div class="container" style="height: 329.325mm;">
+</script>    <div class="container" style="height: 293.871mm;">
         <div class="header">
 
         </div>
@@ -93,15 +92,7 @@
                     <h2 class="job-title not-drag">طراح وب</h2>
                 <div class="other-infos not-drag">
     
-            <div class="basic__birthday">
-                <span>متولد:</span>
-                    <span>۱۳۷۹/۳/۲۷</span>
-            </div>
 
-            <div class="basic__marital">
-                <span>وضعیت تأهل:</span>
-                <span>مجرد</span>
-            </div>
 
     
 </div>
@@ -122,20 +113,8 @@
                 <span>atiejamshidi20@gmail.com</span>
             </div>
     <div class="contact-item contact__mobile">
-                <span>
-                    <i class="fa fa-mobile-alt"></i>
-                </span>
-                <span>موبایل:</span>
-                <span style="unicode-bidi:embed" dir="ltr">(+۹۸)۹۳۸۳۹۰۱۷۷۳</span>
     </div>
-                    <div class="contact-item contact__city">
-                <span>
-                    <i class="fas fa-map-marker"></i>
-                </span>
-                <span>آدرس:</span>
-                <span>تهران، خیابان دماوند</span>
-            </div>
-</div>
+        </div>
                 </div>
 
     <div class="property-item skill__list" data-section="Skill">
