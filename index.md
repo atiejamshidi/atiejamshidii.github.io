@@ -488,21 +488,34 @@
                                     <i>Instagram</i>
                                 </label>
                                     <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="https://instagram.com/atie.x" target="_blank">atie.x</a></label>
-                     </span>
-                    </li>
-                    <li>
-                        <span>
-                            <label>
-                                <i class="fab fa-instagram"></i>
-                                <i>رزومه</i>
-                            </label>
-                            <label dir="ltr">
-                            <a rel="nofollow noreferrer" class="social-link" href="https://bitarahdar.github.io/assessment/BR_CV_CheckList_AR_3983_2.pdf" target="_blank">
-                                ارزيابي رزومه
-                            </a>
-                            </label>
-                        </span>
-                    </li>
+
+                            </span>
+                        </li>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+
+
+
+	</span>
+                </li>
+                <li>
+                    <span>
+                        <label>
+                            <i class="fab fa-instagram"></i>
+                            <i>رزومه</i>
+                        </label>
+                        <label dir="ltr">
+                        <a rel="nofollow noreferrer" class="social-link" href="https://atiejamshidi.github.io/assessment/AJ_CV_CheckList_AR_3983.pdf" target="_blank">
+                            ارزيابي رزومه
+                        </a>
+                        </label>
+                    </span>
+                
+
+
 
             </div>
             <div class="lgbox col-wide sortable-cv-items">
@@ -1363,7 +1376,5 @@ label.exp-desc-title {
   padding-top: 0;
 }
 </style></body></html>
-
-[Resume](/assessment/AJ_CV_CheckList_AR_3983.pdf)
 
 <a href="https://atiejamshidi.github.io/atiiejamshidieng.github.io/">EN</a>
