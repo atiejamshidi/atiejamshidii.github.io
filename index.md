@@ -489,11 +489,38 @@
                                 </label>
                                     <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="https://instagram.com/atie.x" target="_blank">atie.x</a></label>
 
-                            </span>
-                        </li>
-                </ul>
 
-            </div>
+                          </span>
+                    </li>
+                    <li>
+                        <span>
+                            <label>
+                                <i class="fab fa-instagram"></i>
+                                <i>رزومه</i>
+                            </label>
+                            <label dir="ltr">
+                            <a rel="nofollow noreferrer" class="social-link" href="https://atiejamshidi.github.io/assessment/AJ_CV_CheckList_AR_3983.pdf" target="_blank">
+                                ارزيابي رزومه
+                            </a>
+                            </label>
+                        </span>
+                    </li>
+                    
+                    <li>
+                        <span>
+                            <label>
+                                <i class="fab fa-instagram"></i>
+                                <i>رزومه</i>
+                            </label>
+                            <label dir="ltr">
+                            <a rel="nofollow noreferrer" class="social-link" href=https://atiejamshidi.github.io/atiiejamshidieng.github.io/" target="_blank">
+                                EN
+                            </a>
+                            </label>
+                        </span>
+                    </li>
+            </ul>
+
         </div>
     </div>
 
@@ -1359,5 +1386,3 @@ label.exp-desc-title {
   padding-top: 0;
 }
 </style></body></html>
-
-<a href="https://atiejamshidi.github.io/atiiejamshidieng.github.io/">EN</a>
