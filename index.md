@@ -1360,6 +1360,6 @@ label.exp-desc-title {
 }
 </style></body></html>
 
-[Resume](/ AJ_CV_CheckList_AR_3983)
+[Resume](/assessment/AJ_CV_CheckList_AR_3983.pdf)
 
 <a href="https://atiejamshidi.github.io/atiiejamshidieng.github.io/">EN</a>
