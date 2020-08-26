@@ -497,31 +497,28 @@
         </div>
     </div>
     
- <div class="property-item social__list" data-section="SocialNet">
-        <div class="property-item_head">
-            <span>
-                <i class="fa fa-globe"></i>
-            </span>
-            <label>ارزش یابی</label>
-        </div>
-        <div class="property-item_body">
-            <div class="item-row w0">
-                <ul class="history">
-                        <li>
-                            <span>
-                                <label>
-                                    <i class="fab fa-instagram"></i>
-                                    <i>Instagram</i>
-                                </label>
-                                    <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="AJ_CV_CheckList_AR_3983.pdf" target="_blank">resume</a></label>
-
-                            </span>
-                        </li>
-                </ul>
-
-            </div>
-        </div>
-    </div>
+  <</span>
+                    </li>
+                    <li>
+                        <span>
+                            <label>
+                                <i class="fab fa-instagram"></i>
+                                <i>رزومه</i>
+                            </label>
+                            <label dir="ltr">
+                            <a rel="nofollow noreferrer" class="social-link" href="https://atiejamshidi.github.io/atiejamshidii.github.io/assessment/AJ_CV_CheckList_AR_3983.pdf" target="_blank">
+                                ارزيابي رزومه
+                            </a>
+                            </label>
+                        </span>
+                    </li>
+                    
+                    <li>
+                        <span>
+                            <label>
+                                <i class="fab fa-instagram"></i>
+                                <i>رزومه</i>
+                            </label>
 
 
 
