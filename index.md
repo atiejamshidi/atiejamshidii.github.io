@@ -499,23 +499,6 @@
 
 
 
-	</span>
-                </li>
-                <li>
-                    <span>
-                        <label>
-                            <i class="fab fa-instagram"></i>
-                            <i>رزومه</i>
-                        </label>
-                        <label dir="ltr">
-                        <a rel="nofollow noreferrer" class="social-link" href="https://atiejamshidi.github.io/assessment/AJ_CV_CheckList_AR_3983.pdf" target="_blank">
-                            ارزيابي رزومه
-                        </a>
-                        </label>
-                    </span>
-                
-
-
 
             </div>
             <div class="lgbox col-wide sortable-cv-items">
