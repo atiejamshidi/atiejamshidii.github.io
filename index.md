@@ -485,7 +485,7 @@
                                     <i class="fab fa-instagram"></i>
                                     <i>Instagram</i>
                        </label>
-            <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="https://atiejamshidi.github.io/assessment/AJ_CV_CheckList_AR_3983.pdf" target="_blank">resume</a></label>
+            <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="https://atiejamshidii.github.io//assessment/AJ_CV_CheckList_AR_3983.pdf" target="_blank">resume</a></label>
 
                             </span>
                         </li>
