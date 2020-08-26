@@ -541,11 +541,8 @@
             <label>درباره من</label>
         </div>
         <div class="property-item_body">
-            <p class="about-us">
-                دانشجوی مهندسی کامپیوتر دانشگاه پیام نور 
-مسلط به فتوشاپ 
-مسلط به طراحی سایت با ورد پرس و سئو 
-مسلط به office
+            <p class="about-us">مسلط به فتو
+
             </p>
         </div>
     </div>
@@ -600,8 +597,8 @@
                         </li>
                         <li class="866793">
                             <h2 class="subtitle">مسئول دفتر</h2>
-                            <h3 class="subtitle">
-سازمان/نهاد: شهربانو
+                            <h3 class="subtitle">سازمان/نهاد: شهربانو
+
                             </h3>
                                 <label class="date">آغاز همکاری از دی ۱۳۹۸</label>
 
