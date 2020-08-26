@@ -8,10 +8,8 @@
 <link rel="icon" type="image/png" href="/favicon-new.png">
 
     <title>رزومه عطیه جمشیدی </title>
-<meta name="description" content="دانشجوی مهندسی کامپیوتر دانشگاه پیام نور 
-مسلط به فتوشاپ 
-مسلط به طراحی سایت با ورد پرس و سئو 
-مسلط به office">
+    <meta name="description" content=" دانشجو مهندسی کامپیوتر
+    ">
 
 
 <link href="/css/Fonts.css" rel="stylesheet">
@@ -1356,3 +1354,4 @@ label.exp-desc-title {
   padding-top: 0;
 }
 </style></body></html>
+<a href="https://atiejamshidi.github.io/atiiejamshidieng.github.io/">EN</a>
