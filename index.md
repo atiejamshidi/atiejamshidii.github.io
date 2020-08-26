@@ -488,16 +488,7 @@
                                     <i>Instagram</i>
                                 </label>
                                     <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="https://instagram.com/atie.x" target="_blank">atie.x</a></label>
-
-                            </span>
-                        </li>
-                </ul>
-
-            </div>
-        </div>
-    </div>
-    
-  <</span>
+                     </span>
                     </li>
                     <li>
                         <span>
@@ -506,21 +497,12 @@
                                 <i>رزومه</i>
                             </label>
                             <label dir="ltr">
-                            <a rel="nofollow noreferrer" class="social-link" href="https://atiejamshidi.github.io/atiejamshidii.github.io/assessment/AJ_CV_CheckList_AR_3983.pdf" target="_blank">
+                            <a rel="nofollow noreferrer" class="social-link" href="https://bitarahdar.github.io/assessment/BR_CV_CheckList_AR_3983_2.pdf" target="_blank">
                                 ارزيابي رزومه
                             </a>
                             </label>
                         </span>
                     </li>
-                    
-                    <li>
-                        <span>
-                            <label>
-                                <i class="fab fa-instagram"></i>
-                                <i>رزومه</i>
-                            </label>
-
-
 
             </div>
             <div class="lgbox col-wide sortable-cv-items">
