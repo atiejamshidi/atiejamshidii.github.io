@@ -8,7 +8,10 @@
 <link rel="icon" type="image/png" href="/favicon-new.png">
 
     <title>رزومه عطیه جمشیدی </title>
-    <meta name="description" content="دانشجوی مهندسی کامپیوتر مسلط به فتوشاپ و طراحی وب">
+<meta name="description" content="دانشجوی مهندسی کامپیوتر دانشگاه پیام نور 
+مسلط به فتوشاپ 
+مسلط به طراحی سایت با ورد پرس و سئو 
+مسلط به office">
 
 
 <link href="/css/Fonts.css" rel="stylesheet">
@@ -473,7 +476,7 @@
             <span>
                 <i class="fa fa-globe"></i>
             </span>
-            <label>ارزش یابی</label>
+            <label>شبکه اجتماعی</label>
         </div>
         <div class="property-item_body">
             <div class="item-row w0">
@@ -484,7 +487,7 @@
                                     <i class="fab fa-instagram"></i>
                                     <i>Instagram</i>
                                 </label>
-                                    <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="atiejamshidii.github.io/assessment/AJ_CV_CheckList_AR_3983.pdf" target="_blank">resume</a></label>
+                                    <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="https://instagram.com/atie.x" target="_blank">atie.x</a></label>
 
                             </span>
                         </li>
@@ -530,7 +533,9 @@
         <div class="property-item_body">
             <p class="about-us">
                 دانشجوی مهندسی کامپیوتر دانشگاه پیام نور 
-
+مسلط به فتوشاپ 
+مسلط به طراحی سایت با ورد پرس و سئو 
+مسلط به office
             </p>
         </div>
     </div>
