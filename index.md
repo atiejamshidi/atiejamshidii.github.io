@@ -474,7 +474,7 @@
             <span>
                 <i class="fa fa-globe"></i>
             </span>
-            <label>شبکه اجتماعی</label>
+            <label>ارزش یابی</label>
         </div>
         <div class="property-item_body">
             <div class="item-row w0">
