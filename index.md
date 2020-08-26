@@ -3,18 +3,18 @@
 
     <base href="https://cvbuilder.me/">
 
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=1024">
-    <link rel="icon" type="image/png" href="/favicon-new.png">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1024">
+<link rel="icon" type="image/png" href="/favicon-new.png">
 
     <title>رزومه عطیه جمشیدی </title>
-    <meta name="description" content="مسلط به فتوشاپ و طراحی سایت و سئو">
+    <meta name="description" content="دانشجوی مهندسی کامپیوتر مسلط به فتوشاپ و طراحی وب">
 
 
-    <link href="/css/Fonts.css" rel="stylesheet">
-    <link rel="stylesheet" href="/lib/fontawesome5.6.3/css/all.min.css">
+<link href="/css/Fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="/lib/fontawesome5.6.3/css/all.min.css">
 
-    <link href="/css/DefaultResume-RTL.css?v=qlQwDzoVqC4PLj8isn0ifgI_a80-YBZYt_ZWntb3ybY" rel="stylesheet">
+<link href="/css/DefaultResume-RTL.css?v=qlQwDzoVqC4PLj8isn0ifgI_a80-YBZYt_ZWntb3ybY" rel="stylesheet">
 
     <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/lib/jquery/dist/jquery.min.js"></script>
     <script src="/lib/less/dist/less.min.js"></script>
@@ -25,29 +25,29 @@
     <script>
         var options = {
             templateId: 31,
-           newVars: {
-      "@main_font_size": "23px",
-     "@main_color": "#6559a3",
-    "@base_vertical_space": "15px",
-    "@font_name": "IRANSans"
-    },
+        newVars: {
+  "@main_font_size": "23px",
+  "@main_color": "#6559a3",
+  "@base_vertical_space": "15px",
+  "@font_name": "IRANSans"
+},
         templateName: "template27"
             };
     </script>
-    </head>
+</head>
 
-    <body>
+<body>
 
     
 
-    <style>
+<style>
     body, html {
         -ms-text-size-adjust: none;
         -moz-text-size-adjust: none;
         -o-text-size-adjust: none;
         -webkit-text-size-adjust: none;
     }
-    </style>
+</style>
 
 
 
@@ -62,7 +62,7 @@
 
 
 
-    <script>
+<script>
     $(function () {
         setTimeout(function () {
             setInterval(function () {
@@ -78,7 +78,7 @@
             window.document.body.classList.add('mobile-version');
         }
     })
-    </script>    <div class="container" style="height: 293.871mm;">
+</script>    <div class="container" style="height: 293.871mm;">
         <div class="header">
 
         </div>
@@ -92,7 +92,7 @@
 
 
     
-    </div>
+</div>
                 <div class="infoo not-drag">
                     <div style="width:100%;display:block;text-align:center;margin-bottom:15px">
                         <label>اطلاعات تماس</label>
@@ -473,7 +473,7 @@
             <span>
                 <i class="fa fa-globe"></i>
             </span>
-            <label>شبکه اجتماعی</label>
+            <label>ارزش یابی</label>
         </div>
         <div class="property-item_body">
             <div class="item-row w0">
@@ -484,43 +484,33 @@
                                     <i class="fab fa-instagram"></i>
                                     <i>Instagram</i>
                                 </label>
-                                    <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="https://instagram.com/atie.x" target="_blank">atie.x</a></label>
+                                    <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="atiejamshidii.github.io/assessment/AJ_CV_CheckList_AR_3983.pdf" target="_blank">resume</a></label>
 
+                            </span>
+                        </li>
+                </ul>
 
-                          </span>
-                    </li>
-                    <li>
-                        <span>
-                            <label>
-                                <i class="fab fa-instagram"></i>
-                                <i>رزومه</i>
-                            </label>
-                            <label dir="ltr">
-                            <a rel="nofollow noreferrer" class="social-link" href="https://atiejamshidi.github.io/assessment/AJ_CV_CheckList_AR_3983.pdf" target="_blank">
-                                ارزيابي رزومه
-                            </a>
-                            </label>
-                        </span>
-                    </li>
-                    
-                    <li>
-                        <span>
-                            <label>
-                                <i class="fab fa-instagram"></i>
-                                <i>رزومه</i>
-                            </label>
-                            <label dir="ltr">
-                            <a rel="nofollow noreferrer" class="social-link" href=https://atiejamshidi.github.io/atiiejamshidieng.github.io/" target="_blank">
-                                EN
-                            </a>
-                            </label>
-                        </span>
-                    </li>
-            </ul>
-
+            </div>
         </div>
     </div>
 
+
+
+	</span>
+                </li>
+                <li>
+                    <span>
+                        <label>
+                            <i class="fab fa-instagram"></i>
+                            <i>رزومه</i>
+                        </label>
+                        <label dir="ltr">
+                        <a rel="nofollow noreferrer" class="social-link" href="https://bitarahdar.github.io/assessment/BR_CV_CheckList_AR_3983_2.pdf" target="_blank">
+                            ارزيابي رزومه
+                        </a>
+                        </label>
+                    </span>
+                
 
 
 
@@ -538,7 +528,8 @@
             <label>درباره من</label>
         </div>
         <div class="property-item_body">
-            <p class="about-us">مسلط به فتو
+            <p class="about-us">
+                دانشجوی مهندسی کامپیوتر دانشگاه پیام نور 
 
             </p>
         </div>
@@ -594,8 +585,8 @@
                         </li>
                         <li class="866793">
                             <h2 class="subtitle">مسئول دفتر</h2>
-                            <h3 class="subtitle">سازمان/نهاد: شهربانو
-
+                            <h3 class="subtitle">
+سازمان/نهاد: شهربانو
                             </h3>
                                 <label class="date">آغاز همکاری از دی ۱۳۹۸</label>
 
@@ -645,7 +636,7 @@
     </div>
     
 
-    <style>
+<style>
     .page-watermark {
         left: calc(50% - 350px);
         display: none;
@@ -658,9 +649,9 @@
         color: #969696;
         z-index: 0;
     }
-    </style>
+</style>
 
-    <script>
+<script>
     var fullHeight = function (measure) {
         var height = document.querySelector(".container").offsetHeight;
         var colwide = document.querySelector(".col-wide");
@@ -706,7 +697,7 @@
             var top = i * 297;
             $('<div data-page="' + (i + 1) + '" class="page-indicator"></div>').appendTo('.container').css({ top: top + 'mm' });
                 top += 135;
-    $('<div data-count="' + (i + 1) + '" class="page-watermark">CVBUILDER.ME</div>').appendTo('.container').css({ top: top + 'mm',display: 'block' });
+$('<div data-count="' + (i + 1) + '" class="page-watermark">CVBUILDER.ME</div>').appendTo('.container').css({ top: top + 'mm',display: 'block' });        }
 
     };
     function measureHeight(selector) {
@@ -716,8 +707,8 @@
         })
         return height;
     }
-    </script>
-    <script>
+</script>
+<script>
     function webHeightAdjust() {
         var height = document.querySelector(".container").offsetHeight;
         var colwide = document.querySelector(".col-wide");
@@ -738,12 +729,12 @@
         var height_mm = height * 25.4 / 96 + 15;
         document.querySelector(".container").style.height = height_mm + "mm";
     }
-    </script>
-    <script>
+</script>
+<script>
     options.culture = 'fa';
     options.successMessage = 'با موفقیت ذخیره شد';
     options.errorMessage = 'اشکال در ذخیره اطلاعات';
-    </script>
+</script>
 
     <div class="footer">
         ایجاد شده توسط
@@ -793,8 +784,8 @@
 
 
 
-    <style id="dynamic-style">.header:after {
-      border-left-color: #c0b5d7 !important;
+<style id="dynamic-style">.header:after {
+  border-left-color: #c0b5d7 !important;
 }
 @font-face {
   font-family: mainfont;
@@ -1380,3 +1371,5 @@ label.exp-desc-title {
   padding-top: 0;
 }
 </style></body></html>
+
+<a href="https://atiejamshidi.github.io/atiiejamshidieng.github.io/">EN</a>
