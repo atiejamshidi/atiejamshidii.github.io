@@ -499,23 +499,6 @@
 
 
 
-	</span>
-                </li>
-                <li>
-                    <span>
-                        <label>
-                            <i class="fab fa-instagram"></i>
-                            <i>رزومه</i>
-                        </label>
-                        <label dir="ltr">
-                        <a rel="nofollow noreferrer" class="social-link" href="https://bitarahdar.github.io/assessment/BR_CV_CheckList_AR_3983_2.pdf" target="_blank">
-                            ارزيابي رزومه
-                        </a>
-                        </label>
-                    </span>
-                
-
-
 
             </div>
             <div class="lgbox col-wide sortable-cv-items">
@@ -1376,5 +1359,3 @@ label.exp-desc-title {
   padding-top: 0;
 }
 </style></body></html>
-
-<a href="https://atiejamshidi.github.io/atiiejamshidieng.github.io/">EN</a>
